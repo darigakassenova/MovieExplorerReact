@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "dariga",
+      "email": "dariga@react.com",
+      "password": "react"
+    },
+    {
+      "id": "2",
+      "username": "admin",
+      "email": "admin@react.com",
+      "password": "admin"
+    },
+    {
+      "id": "1d4f",
+      "username": "user",
+      "email": "user@react.com",
+      "password": "user"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "movieId": 1241982,
+      "userId": 1,
+      "userName": "alina",
+      "content": "Amazing movie! Highly recommended."
+    },
+    {
+      "id": "2",
+      "movieId": 1241982,
+      "userId": 2,
+      "userName": "admin",
+      "content": "Didn't like it much."
+    },
+    {
+      "id": "b7ff",
+      "movieId": 1241982,
+      "userId": "1d4f",
+      "userName": "user",
+      "content": "amazing!!!"
+    },
+    {
+      "id": "d7ca",
+      "movieId": 1241982,
+      "userId": "1",
+      "userName": "dariga",
+      "content": "first part was better("
+    }
+  ],
+  "watchlist": [
+    {
+      "id": "9d37",
+      "movieId": 1241982,
+      "userId": "2"
+    },
+    {
+      "id": "2aa7",
+      "movieId": 912649,
+      "userId": "2"
+    },
+    {
+      "id": "5f47",
+      "movieId": 974453,
+      "userId": "2"
+    },
+    {
+      "id": "c658",
+      "movieId": 1100782,
+      "userId": "1d4f"
+    },
+    {
+      "id": "56ee",
+      "movieId": 238,
+      "userId": "1d4f"
+    },
+    {
+      "id": "b937",
+      "movieId": 402431,
+      "userId": "1d4f"
+    },
+    {
+      "id": "1ceb",
+      "movieId": 424,
+      "userId": "1d4f"
+    },
+    {
+      "id": "f8c4",
+      "movieId": 1241982,
+      "userId": "1"
+    },
+    {
+      "id": "4b21",
+      "movieId": 278,
+      "userId": "1"
+    }
+  ]
+}

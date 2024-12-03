@@ -1,0 +1,1 @@
+export const posterImage = "https://assets.nflxext.com/ffe/siteui/vlv3/f272782d-cf96-4988-a675-6db2afd165e0/web/KZ-en-20241008-TRIFECTA-perspective_beae9240-d29b-416c-a73d-e6757b41d714_large.jpg";
